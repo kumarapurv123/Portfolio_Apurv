@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Library Managemnet System",
+    "desc": "A library management system is software that is designed to manage all the functions of a library",
+    "image": "LMS",
+    "category": "MERN",
+    "links": {
+      "code": "https://github.com/kumarapurv123/Library-Mangement-System-Project"
+    }
+  },
+  {
+    "name": "Student Information System",
+    "desc": "Management information system for education sector establishments used to manage student data",
+    "image": "SIS",
+    "category": "MERN",
+    "links": {
+      "code": "https://github.com/kumarapurv123/Student-Information-System-Project"
+    }
+  },
+  {
+    "name": "Edu Track",
+    "desc": "An educational website is a huge interactive platform to present various information for different types of people: future students, current students, teachers, parents, those who want to get a new profession, etc",
+    "image": "SIS",
+    "category": "MERN",
+    "links": {
+      "code": "https://github.com/kumarapurv123/edu-track"
+    }
+  }
+]
